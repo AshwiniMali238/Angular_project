@@ -1,0 +1,20 @@
+.my-orders h1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: blueviolet;
+}
+.my-orders .order-img{
+    width: 80px;
+}
+.order-data{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 1px solid #ddd;
+    color: blueviolet;
+}
+.my-orders{
+    margin-bottom: 100px;
+}

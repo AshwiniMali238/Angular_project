@@ -1,0 +1,165 @@
+{
+  "seller": [
+    {
+      "name": "Ashwini",
+      "email": "ashwini@test.com",
+      "password": "123",
+      "id": "d4a0"
+    },
+    {
+      "id": "ca24",
+      "name": "mansi",
+      "email": "mansi@test.com",
+      "password": "123"
+    },
+    {
+      "id": "76e2",
+      "name": "Peter",
+      "password": "123",
+      "email": "peter@test.com"
+    },
+    {
+      "id": "fa50",
+      "name": "Peter",
+      "password": "123",
+      "email": "peter@test.com"
+    }
+  ],
+  "products": [
+    {
+      "name": "laptop",
+      "price": "950000",
+      "category": "laptop",
+      "color": "white",
+      "description": "laptop",
+      "image": "https://th.bing.com/th?id=OIP.ycunPSYUvPoQfv1e3zPZawHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "id": "568c"
+    },
+    {
+      "name": "mobile",
+      "price": "80000",
+      "category": "mobile",
+      "color": "white",
+      "description": "an iphone product",
+      "image": "https://th.bing.com/th/id/OIP.0H_GXDBmj8t95s1KzMU5GAHaL5?w=115&h=181&c=7&r=0&o=5&pid=1.7",
+      "id": "eb06"
+    },
+    {
+      "id": "9775",
+      "name": "watch",
+      "price": "50000",
+      "category": "watch",
+      "color": "Blue",
+      "description": "Watch",
+      "image": "https://th.bing.com/th?id=OIP.hlhC0L07E6Zfiek0L_kcAAHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&cb=13&pid=3.1&rm=2"
+    },
+    {
+      "id": "9082",
+      "name": "sport shoes",
+      "price": "3000",
+      "category": "shoes",
+      "color": "Blue",
+      "description": "Sport Shoes",
+      "image": "https://th.bing.com/th?id=OIP.DE9CkHZ9XyiCAMxsi4j9pgAAAA&w=249&h=250&c=8&rs=1&qlt=90&o=6&cb=13&pid=3.1&rm=2"
+    },
+    {
+      "id": "e4dc",
+      "name": "earphone",
+      "price": "20000",
+      "category": "earphone",
+      "color": "black",
+      "description": "good in condition",
+      "image": "https://th.bing.com/th/id/OIP.xQ3HJg7LmBkoG4ZjtPk_AQHaHJ?w=187&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "name": " color printer",
+      "price": "30000",
+      "category": "printer",
+      "color": "white",
+      "description": "Hp color printer",
+      "image": "https://th.bing.com/th/id/OIP.2IFCNc1RbPI8SwvOgm7UXAHaHa?w=170&h=180&c=7&r=0&o=5&pid=1.7",
+      "id": "e9c5"
+    },
+    {
+      "id": "03be",
+      "name": "jwellary",
+      "price": "100000",
+      "category": "jwellary",
+      "color": "Diamond",
+      "description": "Diamond Jwellary",
+      "image": "https://th.bing.com/th/id/OIP.hFG9McxhFssZApwqgfk9rwHaFK?w=243&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "name": " jeans",
+      "price": "2000",
+      "category": "cloths",
+      "color": "Blue",
+      "description": "It is a ladies Jeans",
+      "image": "data:image/jpeg;base64,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",
+      "id": "3d68"
+    },
+    {
+      "id": "780f",
+      "name": "soft Toys",
+      "price": "1000",
+      "category": "soft Toys for Babies",
+      "color": "Brown",
+      "description": "Baby toy",
+      "image": "https://th.bing.com/th/id/OIP.rx1Ui-4RWw9dYUsOnITP3QD6D6?w=195&h=195&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "id": "9775",
+      "name": "watch",
+      "price": "50000",
+      "category": "watch",
+      "color": "Blue",
+      "description": "Watch",
+      "image": "https://th.bing.com/th?id=OIP.hlhC0L07E6Zfiek0L_kcAAHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&cb=13&pid=3.1&rm=2"
+    }
+  ],
+  "users": [
+    {
+      "id": "3c80",
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "123"
+    },
+    {
+      "id": "ba90",
+      "name": "maddy",
+      "email": "maddy@user.com",
+      "password": "123"
+    },
+    {
+      "id": "26fb",
+      "name": "bruce",
+      "email": "bruce@user.com",
+      "password": "123"
+    },
+    {
+      "id": "d786",
+      "name": "Ashwini",
+      "email": "ashwini@user.com",
+      "password": "123"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": "fcd4",
+      "email": "ashwini@user.com",
+      "address": "Pune Sector 7",
+      "contact": "82612225525",
+      "totalPrice": 4100,
+      "userId": "ba90"
+    },
+    {
+      "id": "a012",
+      "email": "ashwini@user.com",
+      "address": "Pune Sector 101",
+      "contact": "82612225525",
+      "totalPrice": 60100,
+      "userId": "ba90"
+    }
+  ]
+}
